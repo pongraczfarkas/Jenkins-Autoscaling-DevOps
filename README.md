@@ -4,9 +4,10 @@ This project demonstrates how to set up Jenkins on AWS using Terraform and Ansib
 ## Prerequisites  
   
 
- - An AWS account with access to EC2, S3, and IAM services 
+ - An AWS account with access to EC2, VPC, LB and IAM services 
  - Terraform installed on your local machine
- - Ansible installed on your local machine 
+ - Ansible installed on your local machine
+ - Packer installed on your local machine
  - A SSH key pair for accessing the EC2 instances  
 
 ## Installation  
