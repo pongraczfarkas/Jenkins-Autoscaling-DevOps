@@ -2,7 +2,7 @@
 
 ## Topology
 
-![226690774-66731923-a2cd-45cc-b387-c959e5b713c1](https://github.com/pongraczfarkas/Jenkins-Autoscaling-DevOps/assets/61662033/a95efc1d-50bd-4085-a1cd-b248f360a2b7)
+![alt text](https://github.com/pongraczfarkas/Jenkins-Autoscaling-DevOps/blob/master/226690774-66731923-a2cd-45cc-b387-c959e5b713c1.png?raw=true)
 
   
 This project demonstrates how to set up Jenkins on AWS using Terraform and Ansible. It also shows how to configure Jenkins to autoscale its agents based on the workload.  
